@@ -1,0 +1,48 @@
+body {
+    background-color: #000; 
+    color: #ddd; 
+    font-family: Arial, sans-serif; 
+}
+
+main div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+}
+
+h2 {
+    color: #fff; 
+}
+
+h3 {
+    color: #fff; 
+}
+
+h4 {
+    color: #fff; 
+}
+
+a {
+    color: #ebbb53; 
+    font-size: 50px;
+}
+
+footer a {
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.image-container {
+    border: 2px dashed #ccc; 
+    padding: 10px; 
+    display: inline-block; 
+    height: auto;
+}
+
+.image-container img {
+    max-width: 100%; 
+    height: auto;
+}
+
