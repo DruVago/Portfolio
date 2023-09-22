@@ -16,6 +16,14 @@ body {
 .icon {
     display: inline-block;
 }
+.ic1 {
+    float: left;
+}
+
+.ic2 {
+    float: right;
+}
+
 
 .container {
     width: 80%;
